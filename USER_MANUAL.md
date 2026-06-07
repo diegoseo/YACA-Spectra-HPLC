@@ -90,7 +90,7 @@ python yaca_spectra.py
 
 After starting the program, the main window of YACA-Spectra HPLC Educational will open.
 
-![Main window](docs-en/screenshots/01_main_window_es.png)
+![Main window](docs-en/screenshots/01_main_window_en.png)
 
 ---
 
@@ -123,11 +123,11 @@ To load a chromatographic file:
 2. Select a file with the `.qgd` extension.
 3. Confirm the selection.
 
-![Open QGD file](docs-en/screenshots/02_open_qgd_es.png)
+![Open QGD file](docs-en/screenshots/02_open_qgd_en.png)
 
 After loading the file, the chromatogram will appear in the plot area.
 
-![Loaded chromatogram](docs-en/screenshots/03_loaded_chromatogram_es.png)
+![Loaded chromatogram](docs-en/screenshots/03_loaded_chromatogram_en.png)
 
 ---
 
@@ -182,7 +182,7 @@ To create an ROI:
 2. Click once before the peak.
 3. Click again after the peak.
 
-![ROI selection](docs-en/screenshots/04_roi_selection_es.png)
+![ROI selection](docs-en/screenshots/04_roi_selection_en.png)
 
 After selecting the region, the program automatically fills in:
 
@@ -203,7 +203,7 @@ To integrate an ROI:
 
 The result will appear in the **Integrated regions** table.
 
-![Integrated ROI](docs-en/screenshots/05_integrated_roi_es.png)
+![Integrated ROI](docs-en/screenshots/05_integrated_roi_en.png)
 
 The table shows:
 
@@ -286,7 +286,7 @@ To save the chromatogram plot:
 
 The **Compare signals** button opens a secondary window for comparing multiple `.qgd` files.
 
-![Comparison window](docs-en/screenshots/06_compare_window_es.png)
+![Comparison window](docs-en/screenshots/06_compare_window_en.png)
 
 In this window, the user can:
 
@@ -305,7 +305,7 @@ In this window, the user can:
 
 The interface allows the user to switch between Spanish and English using the language selector located in the application header.
 
-![Language selector](docs-en/screenshots/07_language_selector_es.png)
+![Language selector](docs-en/screenshots/07_language_selector_en.png)
 
 When the language is changed, the interface is rebuilt and the visible texts are updated.
 
