@@ -197,6 +197,51 @@ YACA-Spectra HPLC Educational was designed to support the teaching of chromatogr
 
 ---
 
+## Downloads
+
+Executable versions are available in the [Releases](../../releases) section.
+
+### Latest release files
+
+| Operating system | File                             |
+| ---------------- | -------------------------------- |
+| Linux            | `YACA-Spectra-HPLC-Linux.tar.gz` |
+| Windows          | `YACA-Spectra-HPLC-Windows.exe`  |
+| macOS            | `YACA-Spectra-HPLC-macOS.zip`    |
+
+### Running on Linux
+
+Download `YACA-Spectra-HPLC-Linux.tar.gz`, extract it, give execution permission, and run the application:
+
+```bash
+tar -xzf YACA-Spectra-HPLC-Linux.tar.gz
+chmod +x YACA-Spectra-HPLC-Linux
+./YACA-Spectra-HPLC-Linux
+```
+
+### Running on Windows
+
+Download and run:
+
+```text
+YACA-Spectra-HPLC-Windows.exe
+```
+
+If Windows shows a security warning, choose **More info → Run anyway** only if you downloaded the file from the official release page.
+
+### Running on macOS
+
+Download and extract:
+
+```text
+YACA-Spectra-HPLC-macOS.zip
+```
+
+Then open the `.app` file. If macOS shows a security warning because the application is not signed or notarized, use **Right click → Open**.
+
+
+---
+
 ## License
 
 This project is distributed under the MIT License. See the `LICENSE` file for more information.
