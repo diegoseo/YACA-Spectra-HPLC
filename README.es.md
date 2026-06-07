@@ -159,13 +159,12 @@ Todas las dependencias necesarias están listadas en el archivo `requirements.tx
 
 ## Datos de ejemplo
 
-Los archivos de ejemplo pueden incluirse en la carpeta:
+El archivo de ejemplo estaen la carpeta:
 
 ```text
 sample_data/
 ```
 
-Si los archivos `.qgd` contienen datos privados, institucionales o de laboratorio, se recomienda no subirlos a un repositorio público.
 
 ---
 

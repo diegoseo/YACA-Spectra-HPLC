@@ -157,13 +157,11 @@ All required packages are listed in `requirements.txt`.
 
 ## Example data
 
-Example files may be included in:
+The example file is available in the folder:
 
 ```text
 sample_data/
 ```
-
-If `.qgd` files contain private or laboratory data, they should not be uploaded to a public repository.
 
 ---
 
