@@ -8,7 +8,7 @@
 
 Educational software for HPLC/QGD chromatogram visualization, ROI selection, peak integration, centroid calculation, and chromatographic signal comparison.
 
-[Versión en español](USER_MANUAL.md)
+[Versión en español](USER_MANUAL.es.md)
 
 </div>
 
