@@ -159,7 +159,7 @@ Todas las dependencias necesarias están listadas en el archivo `requirements.tx
 
 ## Datos de ejemplo
 
-El archivo de ejemplo estaen la carpeta:
+El archivo de ejemplo esta en la carpeta:
 
 ```text
 sample_data/
