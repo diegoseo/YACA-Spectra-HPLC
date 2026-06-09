@@ -67,6 +67,8 @@ YACA_SPECTRA/
 │       └── 07_language_selector_en.png
 ├── sample_data/
 │   └── BFC 267 (2).qgd
+│   └── Archivo de Prueba FAME-JATROPHA
+│   └── FAME 002
 ├── yaca_spectra.py
 ├── translations.py
 ├── requirements.txt
